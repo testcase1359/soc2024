@@ -25,3 +25,14 @@ WEEK 2
 | <https://leetcode.com/problems/asteroid-collision/description/>                          		          | [asteroid_collision.cpp](dsasoccode/asteroid_collision.cpp)     |
 | <https://leetcode.com/problems/unique-number-of-occurrences/description/>      			                  | [uniquenum_occurences.cpp](dsasoccode/uniquenum_occurences.cpp) |
 
+WEEK 3
+
+| Question                                                                                              | Code                                                |
+|-------------------------------------------------------------------------------------------------------|------------------------------------	                |
+|<https://leetcode.com/problems/sqrtx/>                                            | [sqrt.cpp](dsasoccode/sqrt.cpp)     	    |
+|<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/>                                                   | [negnum_in_sortedarray.cpp](dsasoccode/negnum_in_sortedarray.cpp)             	    |
+| <https://leetcode.com/problems/find-peak-element/>                                               | [peak_element.cpp](dsasoccode/peak_element.cpp)         	    |
+| <https://leetcode.com/problems/time-based-key-value-store/>                                     	      | [key_value.cpp](dsasoccode/key_value.cpp)     |
+| <https://leetcode.com/problems/median-of-two-sorted-arrays/>                                                       | [median_of_merged_arrays.cpp](dsasoccode/median_of_merged_arrays.cpp) |
+| <https://leetcode.com/problems/merge-k-sorted-lists/>                                                       | [mergeklists.cpp](dsasoccode/mergeklists.cpp) |
+| <https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/>                                                       | [minrotatedsortedarray.cpp](dsasoccode/minrotatedsortedarray.cpp) |
